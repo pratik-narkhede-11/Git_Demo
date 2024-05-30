@@ -1,2 +1,3 @@
 Hello world, this is my git demo file.
-NOw changed
+NOw changed 
+third
